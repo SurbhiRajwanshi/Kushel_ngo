@@ -5,7 +5,7 @@ document.write(`
         <div class="col-lg-3 col-md-6 col-sm-8">
             <div class="widget widget_about">
                 <div class="logo_footer mb-25">
-                    <a href="index.html"><img src="assets/img/Kds logo white.png" alt="img"></a>
+                    <a target="_blank" href="https://www.kusheldigi.com/" ><img src="assets/img/Kds logo white.png" alt="img"></a>
                 </div>
                 <!-- <p>Wimply dummy text of the priatype industry orem Ipsum has Maecenas quis eros at ante lacinia
                     efficitur.</p> -->
